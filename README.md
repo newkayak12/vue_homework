@@ -10,4 +10,5 @@
 5. 숫자야구
    ![](./numbase.png)
 6. 로또 추첨
+
    ![](./lottery.png)
