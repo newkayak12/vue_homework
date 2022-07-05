@@ -23,9 +23,9 @@
 <!--  lifeCycleHook, watch-->
       <router-link tag="li" to="/numberBaseball/">숫자 야구  (7.17 ~ 7.24)  </router-link>
 <!--      component, props-->
-      <router-link tag="li" to="/lottery">로또 추첨기 (7.24 ~ 7.31)</router-link>
+      <router-link tag="li" to="/lottery/">로또 추첨기 (7.24 ~ 7.31)</router-link>
 <!--      lifeCycleHook, component, emit-->
-      <li>틱택토 (7.31 ~ 8.07)</li>
+      <router-link tag="li" to="/tictactoe/">틱택토 (7.31 ~ 8.07)</router-link>
     </ol>
   </div>
 </template>
