@@ -4,26 +4,56 @@
         <span style="cursor: pointer" @click="$router.go(-1)">
           &lt;
         </span>&nbsp;
-      &nbsp; 로또 추첨
+      &nbsp; 틱택토
     </h1>
   </div>
 </template>
 
 <script>
-// props를 사용하여 문제를 해결하시오
+// 할 수 있는 모든 것을 사용해서 문제를 푸시오
+// 맨 아래 힌트 키워드 있음
 export default {
-  name: 'lottery',
+  name: 'tic-tac-toe',
   description: '',
-  data() {
-    return {
-    };
-  },
-  methods: {
-
-  },
 };
 </script>
 
 <style scoped>
-
 </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--vue $emit, props, props.sync, event bus, store-->
