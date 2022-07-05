@@ -34,6 +34,11 @@ const routes = [
     name: 'number_baseball',
     component: () => import('@/views/numberBaseball/index'),
   },
+  {
+    path: '/lottery/',
+    name: 'lottery',
+    component: () => import('@/views/lottery/index'),
+  },
 
 ];
 
