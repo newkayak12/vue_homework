@@ -10,6 +10,6 @@
 5. 숫자야구  (7.17 ~ 7.24)
    ![](./numbase.png)
 6. 로또 추첨  (7.24 ~ 7.31)
-   ![](./lottery.png)
+   <br/>![](./lottery.png)
 7. 틱택토 (7.31 ~ 8.01)
-   ![](./tictactoe.png)
+   <br/>![](./tictactoe.png)
