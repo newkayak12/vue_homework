@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'lotteryBall',
+  name: 'lottery-ball',
   description: '',
   props: {
     number: {
@@ -28,6 +28,11 @@ export default {
 .lotteryBall{
  border: 1px black solid;
  border-radius: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  width: 50px;
+  height: 50px;
 }
 .red{
   background-color: red;
@@ -63,6 +68,6 @@ export default {
 }
 .gray{
   background-color: gray;
-  color: black;
+  color: white;
 }
 </style>
